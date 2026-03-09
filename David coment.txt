@@ -1,3 +1,0 @@
-pri pouziti multi stage som sa dostal na velkost imigov 200 MB, pri signle stage 300 MB 
-
-V tomto pripade multistage nie az tak vyhodny
